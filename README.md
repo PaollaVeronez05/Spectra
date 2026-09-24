@@ -545,7 +545,8 @@ O cronograma contempla as etapas de:
 
 <div align="center">
 
-[![ACESSAR CRONOGRAMA](https://img.shields.io/badge/ACESSAR%20CRONOGRAMA-118E94?style=for-the-badge)](COLE_AQUI_O_LINK_DO_CRONOGRAMA)
+[![ACESSAR CRONOGRAMA](https://img.shields.io/badge/ACESSAR%20CRONOGRAMA-118E94?style=for-the-badge)](<img width="800" height="450" alt="Captura de tela 2026-09-24 084455" src="https://github.com/user-attachments/assets/23efa467-2a23-4915-9e6d-9b9864116842" />
+)
 
 </div>
 
@@ -557,7 +558,7 @@ A apresentação da Spectra reúne informações sobre a proposta do projeto, pr
 
 <div align="center">
 
-[![ABRIR SLIDES](https://img.shields.io/badge/ABRIR%20SLIDES-FFFF00?style=for-the-badge\&labelColor=0F171A)](COLE_AQUI_O_LINK_DOS_SLIDES)
+[![ABRIR SLIDES](https://www.canva.com/design/DAHTfu4PRPY/1whD7VPopuWyyY6eY7blhQ/edit)
 
 </div>
 
