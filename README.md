@@ -1,4 +1,4 @@
-#  Spectra — Plataforma Inteligente de Segurança
+#  Spectra - Plataforma Inteligente de Segurança
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-6C63FF?style=for-the-badge" />
