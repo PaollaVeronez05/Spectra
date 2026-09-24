@@ -68,9 +68,9 @@ O foco principal está no **mercado empresarial**, buscando atender necessidades
 |---|---|
 | **Paolla Paula Veronez** | Product Owner |
 | **Isabella Radael** | Scrum Master 
-| **Rafaela Cristina Araujo Oliveira** | Desenvolvedor |
+| **Rafaela Cristina Araujo Oliveira** | Desenvolvedora |
 | **Felipe Heitor** | Desenvolvedor |
-| **Leonardo Alves** | Desenvolvedora |
+| **Leonardo Alves** | Desenvolvedor |
 | **Nicolas Fernandes** | Desenvolvedor |
 
 ---
