@@ -474,7 +474,8 @@ A versão para computador apresenta uma interface mais ampla, permitindo organiz
 
 ### Prévia
 
-<img src="./assets/telas/home-desktop.png" alt="Tela principal da Spectra - Computador" width="900">
+<img src="./assets/telas/home-<img width="448" height="612" alt="image" src="https://github.com/user-attachments/assets/29a6a344-525a-4f65-b53b-11a57c6409a9" />
+" alt="Tela principal da Spectra - Computador" width="900">
 
 > Substitua o caminho acima pelo arquivo da tela principal em versão desktop.
 
