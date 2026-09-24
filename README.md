@@ -541,7 +541,7 @@ O cronograma contempla as etapas de:
 
 ## Cronograma do Projeto
 
-<img src="./assets/cronograma/cronograma.png" alt="Cronograma da Spectra" width="900">
+<img src="./assets/cronograma/https://app.clickup.com/90171471054/v/b/4-90176930121-2" alt="Cronograma da Spectra" width="900">
 
 > Substitua o caminho acima pela imagem do cronograma utilizada pela equipe.
 
