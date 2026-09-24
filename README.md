@@ -181,11 +181,11 @@ As planilhas utilizadas para organização e acompanhamento do projeto podem ser
 
 <div align="center">
 
-[![SPRINT BACKLOG](https://img.shields.io/badge/SPRINT%20BACKLOG-118E94?style=for-the-badge)](COLE_AQUI_O_LINK_DA_PLANILHA)
+[![SPRINT BACKLOG](https://img.shields.io/badge/SPRINT%20BACKLOG-118E94?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1QF4cMYA7s8I5Y5CLGN1AJfYibWVMAaAg/edit?usp=drive_link&ouid=106909840139903568148&rtpof=true&sd=true)
 
-[![PRODUCT BACKLOG](https://img.shields.io/badge/PRODUCT%20BACKLOG-118E94?style=for-the-badge)](COLE_AQUI_O_LINK_DA_PLANILHA)
+[![PRODUCT BACKLOG](https://img.shields.io/badge/PRODUCT%20BACKLOG-118E94?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1bGpYraDU6AWtrGf2MrslTclhRUsrSLgb/edit?usp=drive_link&ouid=106909840139903568148&rtpof=true&sd=true)
 
-[![PLANEJAMENTO](https://img.shields.io/badge/PLANEJAMENTO-FFFF00?style=for-the-badge\&labelColor=0F171A)](COLE_AQUI_O_LINK_DA_PLANILHA)
+[![PLANEJAMENTO](https://img.shields.io/badge/PLANEJAMENTO-FFFF00?style=for-the-badge\&labelColor=0F171A)](https://docs.google.com/spreadsheets/d/1xMdiClfzmHh7Gaob7K-ijWBP8Q2vARwR/edit?usp=drive_link&ouid=106909840139903568148&rtpof=true&sd=true)
 
 </div>
 
@@ -449,7 +449,7 @@ O protótipo apresenta a identidade visual, estrutura de navegação, componente
 
 <div align="center">
 
-[![ACESSAR PROTÓTIPO](https://img.shields.io/badge/ACESSAR%20PROTÓTIPO%20NO%20FIGMA-118E94?style=for-the-badge\&logo=figma\&logoColor=white)](COLE_AQUI_O_LINK_DO_FIGMA)
+[![ACESSAR PROTÓTIPO](https://img.shields.io/badge/ACESSAR%20PROTÓTIPO%20NO%20FIGMA-118E94?style=for-the-badge\&logo=figma\&logoColor=white)](https://www.figma.com/proto/QozuwrvPUz8aPlHdfvGjke/Sem-t%C3%ADtulo?node-id=3-945&t=chYvCRs5vSVPDKcD-1 )
 
 </div>
 
@@ -475,7 +475,7 @@ A versão para computador apresenta uma interface mais ampla, permitindo organiz
 ### Prévia
 
 <img src="./assets/telas/home-<img width="448" height="612" alt="image" src="https://github.com/user-attachments/assets/29a6a344-525a-4f65-b53b-11a57c6409a9" />
-" alt="Tela principal da Spectra - Computador" width="900">
+
 
 > Substitua o caminho acima pelo arquivo da tela principal em versão desktop.
 
@@ -487,7 +487,8 @@ A versão mobile será adaptada para telas menores, mantendo a hierarquia das in
 
 ### Prévia
 
-<img src="./assets/telas/home-mobile.png" alt="Tela principal da Spectra - Celular" width="350">
+<img src="./assets/telas/home-<img width="448" height="760" alt="image" src="https://github.com/user-attachments/assets/c79b41ce-57b2-4c7b-a516-d61358877a89" />
+
 
 > Substitua o caminho acima pelo arquivo da tela principal em versão mobile.
 
@@ -558,7 +559,7 @@ A apresentação da Spectra reúne informações sobre a proposta do projeto, pr
 
 <div align="center">
 
-[![ABRIR SLIDES](https://img.shields.io/badge/ABRIR%20SLIDES-FFFF00?style=for-the-badge\&labelColor=0F171A)](COLE_AQUI_O_LINK_DOS_SLIDES)
+[![ABRIR SLIDES](https://img.shields.io/badge/ABRIR%20SLIDES-FFFF00?style=for-the-badge\&labelColor=0F171A)](https://canva.link/s97yfd5jalze800)
 
 </div>
 
