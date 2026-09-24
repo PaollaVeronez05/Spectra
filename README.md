@@ -35,33 +35,19 @@ ANALISAR → DETECTAR → PONTUAR → VISUALIZAR → ANALISAR NOVAMENTE
 <div align="center">
 
 [![SOBRE](https://img.shields.io/badge/SOBRE%20O%20PROJETO-118E94?style=for-the-badge)](#sobre-o-projeto)
-
 [![OBJETIVO](https://img.shields.io/badge/OBJETIVO-118E94?style=for-the-badge)](#objetivo)
-
 [![PÚBLICO](https://img.shields.io/badge/PÚBLICO--ALVO-118E94?style=for-the-badge)](#público-alvo)
-
 [![SPRINT 1](https://img.shields.io/badge/SPRINT%201-FFFF00?style=for-the-badge\&labelColor=0F171A)](#sprint-1)
-
 [![PLANEJAMENTO](https://img.shields.io/badge/PLANEJAMENTO-118E94?style=for-the-badge)](#planejamento)
-
 [![FUNCIONALIDADES](https://img.shields.io/badge/FUNCIONALIDADES-118E94?style=for-the-badge)](#funcionalidades)
-
 [![FLUXO](https://img.shields.io/badge/FLUXO%20DA%20SPECTRA-118E94?style=for-the-badge)](#fluxo-da-spectra)
-
 [![PALETA](https://img.shields.io/badge/PALETA%20DE%20CORES-FFFF00?style=for-the-badge\&labelColor=0F171A)](#paleta-de-cores)
-
 [![TECNOLOGIAS](https://img.shields.io/badge/TECNOLOGIAS-118E94?style=for-the-badge)](#tecnologias-utilizadas)
-
 [![FIGMA](https://img.shields.io/badge/PROTÓTIPO%20FIGMA-118E94?style=for-the-badge)](#protótipo-no-figma)
-
 [![TELAS](https://img.shields.io/badge/TELAS-118E94?style=for-the-badge)](#telas-principais)
-
 [![CRONOGRAMA](https://img.shields.io/badge/CRONOGRAMA-118E94?style=for-the-badge)](#cronograma)
-
 [![SLIDES](https://img.shields.io/badge/SLIDES-FFFF00?style=for-the-badge\&labelColor=0F171A)](#apresentação-e-slides)
-
 [![EQUIPE](https://img.shields.io/badge/EQUIPE-118E94?style=for-the-badge)](#equipe)
-
 [![STATUS](https://img.shields.io/badge/STATUS-118E94?style=for-the-badge)](#status-do-projeto)
 
 </div>
@@ -120,17 +106,11 @@ Nesta etapa foram definidos os principais aspectos relacionados à proposta do p
 <div align="center">
 
 [![OBJETIVOS](https://img.shields.io/badge/OBJETIVOS-118E94?style=for-the-badge)](#objetivos-da-sprint-1)
-
 [![PROPOSTA](https://img.shields.io/badge/PROPOSTA-118E94?style=for-the-badge)](#proposta-da-plataforma)
-
 [![REQUISITOS](https://img.shields.io/badge/REQUISITOS-118E94?style=for-the-badge)](#requisitos)
-
 [![FUNCIONALIDADES](https://img.shields.io/badge/FUNCIONALIDADES-118E94?style=for-the-badge)](#funcionalidades)
-
 [![PLANEJAMENTO](https://img.shields.io/badge/PLANEJAMENTO-118E94?style=for-the-badge)](#planejamento)
-
 [![IDENTIDADE](https://img.shields.io/badge/IDENTIDADE%20VISUAL-FFFF00?style=for-the-badge\&labelColor=0F171A)](#identidade-visual)
-
 [![CRONOGRAMA](https://img.shields.io/badge/CRONOGRAMA-118E94?style=for-the-badge)](#cronograma)
 
 </div>
@@ -182,9 +162,7 @@ As planilhas utilizadas para organização e acompanhamento do projeto podem ser
 <div align="center">
 
 [![SPRINT BACKLOG](https://img.shields.io/badge/SPRINT%20BACKLOG-118E94?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1QF4cMYA7s8I5Y5CLGN1AJfYibWVMAaAg/edit?usp=drive_link&ouid=106909840139903568148&rtpof=true&sd=true)
-
 [![PRODUCT BACKLOG](https://img.shields.io/badge/PRODUCT%20BACKLOG-118E94?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1bGpYraDU6AWtrGf2MrslTclhRUsrSLgb/edit?usp=drive_link&ouid=106909840139903568148&rtpof=true&sd=true)
-
 [![PLANEJAMENTO](https://img.shields.io/badge/PLANEJAMENTO-FFFF00?style=for-the-badge\&labelColor=0F171A)](https://docs.google.com/spreadsheets/d/1xMdiClfzmHh7Gaob7K-ijWBP8Q2vARwR/edit?usp=drive_link&ouid=106909840139903568148&rtpof=true&sd=true)
 
 </div>
@@ -392,21 +370,13 @@ A Spectra utiliza diferentes tecnologias para desenvolvimento, banco de dados, p
 <div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
 ![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 </div>
@@ -688,7 +658,6 @@ Entre as atividades previstas estão:
 <p align="center">
 
 ![STATUS](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-118E94?style=for-the-badge)
-
 ![VERSÃO](https://img.shields.io/badge/VERSÃO-0.1-0F171A?style=for-the-badge)
 
 </p>
