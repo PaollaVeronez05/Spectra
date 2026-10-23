@@ -555,9 +555,9 @@ Imagem da modelagem de dados:
 
 Adicione a imagem da modelagem nesta seção, utilizando o caminho do arquivo salvo no repositório.
 
-```
-![Modelagem de Dados da Spectra](caminho/da/imagem-modelagem.png)
-```
+
+![Modelagem de Dados da Spectra](img/Diagrama_banco.png)
+
 
 ## Escopo do Projeto
 
@@ -575,9 +575,9 @@ Imagem da tela principal:
 
 Substitua o caminho abaixo pelo local da imagem da tela principal no repositório.
 
-```
-![Tela Principal da Spectra](caminho/da/imagem-tela-principal.png)
-```
+
+![Tela Principal da Spectra](img/escopo.png)
+
 
 ## Resultados da Sprint 2
 
