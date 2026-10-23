@@ -46,6 +46,9 @@ ANALISAR → DETECTAR → PONTUAR → VISUALIZAR → ANALISAR NOVAMENTE
 [![FIGMA](https://img.shields.io/badge/PROTÓTIPO%20FIGMA-118E94?style=for-the-badge)](#protótipo-no-figma)
 [![TELAS](https://img.shields.io/badge/TELAS-118E94?style=for-the-badge)](#telas-principais)
 [![CRONOGRAMA](https://img.shields.io/badge/CRONOGRAMA-118E94?style=for-the-badge)](#cronograma)
+[![SPRINT 2](https://img.shields.io/badge/SPRINT%202-FFFF00?style=for-the-badge\&labelColor=0F171A)](#sprint-2)
+[![MODELAGEM](https://img.shields.io/badge/MODELAGEM%20DE%20DADOS-118E94?style=for-the-badge)](#modelagem-de-dados)
+[![ESCOPO](https://img.shields.io/badge/ESCOPO%20DO%20PROJETO-118E94?style=for-the-badge)](#escopo-do-projeto)
 [![SLIDES](https://img.shields.io/badge/SLIDES-FFFF00?style=for-the-badge\&labelColor=0F171A)](#apresentação-e-slides)
 [![EQUIPE](https://img.shields.io/badge/EQUIPE-118E94?style=for-the-badge)](#equipe)
 [![STATUS](https://img.shields.io/badge/STATUS-118E94?style=for-the-badge)](#status-do-projeto)
@@ -523,6 +526,72 @@ O cronograma contempla as etapas de:
 
 ---
 
+<a id="sprint-2"></a>
+
+# Sprint 2 — Desenvolvimento da Plataforma
+
+A Sprint 2 marcou o início do desenvolvimento da plataforma Spectra, dando continuidade ao planejamento realizado na Sprint 1. Nesta etapa, começamos a transformar as definições do projeto em uma solução funcional, trabalhando na modelagem de dados, na estrutura inicial do site e nos primeiros testes de integração.
+
+## Índice da Sprint 2
+
+<div align="center">
+
+[![MODELAGEM](https://img.shields.io/badge/MODELAGEM%20DE%20DADOS-118E94?style=for-the-badge)](#modelagem-de-dados)
+[![ESCOPO](https://img.shields.io/badge/ESCOPO%20DO%20PROJETO-118E94?style=for-the-badge)](#escopo-do-projeto)
+[![TELA PRINCIPAL](https://img.shields.io/badge/TELA%20PRINCIPAL%20DO%20SITE-118E94?style=for-the-badge)](#tela-principal-do-site)
+[![RESULTADOS](https://img.shields.io/badge/RESULTADOS-FFFF00?style=for-the-badge\&labelColor=0F171A)](#resultados-da-sprint-2)
+
+</div>
+
+---
+
+## Modelagem de Dados
+
+Nesta etapa, foi iniciada a modelagem de dados da Spectra, com o objetivo de organizar as informações necessárias para o funcionamento da plataforma e estabelecer uma estrutura para o armazenamento e a consulta dos dados.
+
+A modelagem contribui para definir como os dados serão organizados e relacionados, servindo como base para o desenvolvimento das funcionalidades e para a futura integração entre as partes do sistema.
+
+Imagem da modelagem de dados:
+
+Adicione a imagem da modelagem nesta seção, utilizando o caminho do arquivo salvo no repositório.
+
+```
+![Modelagem de Dados da Spectra](caminho/da/imagem-modelagem.png)
+```
+
+## Escopo do Projeto
+
+Durante a Sprint 2, iniciamos o desenvolvimento da plataforma Spectra, avançando da etapa de planejamento para a implementação da estrutura inicial do site.
+
+O trabalho envolveu a construção das primeiras partes da interface, a organização dos elementos da plataforma e a realização dos primeiros testes de integração, com o objetivo de verificar a comunicação entre os componentes desenvolvidos e identificar possíveis ajustes necessários.
+
+Essa etapa representa um avanço importante para transformar a proposta visual e funcional definida anteriormente em uma plataforma utilizável, mantendo o foco na análise e na visualização de informações relacionadas à segurança de aplicações web e APIs.
+
+### Tela Principal do Site
+
+A tela principal apresenta a estrutura inicial da interface da Spectra, servindo como base para a organização das informações e das funcionalidades que serão disponibilizadas ao usuário.
+
+Imagem da tela principal:
+
+Substitua o caminho abaixo pelo local da imagem da tela principal no repositório.
+
+```
+![Tela Principal da Spectra](caminho/da/imagem-tela-principal.png)
+```
+
+## Resultados da Sprint 2
+
+* Início do desenvolvimento da plataforma.
+* Implementação da estrutura inicial do site.
+* Início da modelagem de dados.
+* Desenvolvimento das primeiras partes da interface.
+* Realização dos primeiros testes de integração.
+* Identificação de ajustes para as próximas etapas.
+
+Ao final desta sprint, a Spectra avançou do planejamento para a implementação, estabelecendo uma base inicial para a finalização das funcionalidades e a integração dos componentes da plataforma.
+
+---
+
 # Apresentação e Slides
 
 A apresentação da Spectra reúne informações sobre a proposta do projeto, problema, solução, público-alvo, funcionalidades, tecnologias, identidade visual e desenvolvimento.
@@ -621,22 +690,16 @@ Entre os aspectos considerados estão:
 
 # Próximas Etapas
 
-Após a conclusão da Sprint 1, o projeto poderá avançar para as próximas etapas de desenvolvimento.
+Com o avanço do desenvolvimento da Spectra, o projeto encontra-se na etapa final de construção da plataforma. As próximas atividades estão concentradas na conclusão do site, na verificação de seu funcionamento e na finalização da documentação técnica.
 
-Entre as atividades previstas estão:
+As atividades restantes são:
 
-* Evolução do protótipo;
-* Desenvolvimento das telas;
-* Implementação do frontend;
-* Desenvolvimento do backend;
-* Integração com banco de dados;
-* Implementação das análises;
-* Criação do Security Score;
-* Implementação dos indicadores;
-* Desenvolvimento dos gráficos;
-* Testes;
-* Correções;
-* Documentação técnica.
+* Finalização do site: concluir as funcionalidades pendentes e finalizar a interface da plataforma.
+* Testes finais: verificar o funcionamento das funcionalidades implementadas, a integração entre os componentes e a identificação de possíveis erros.
+* Ajustes finais: corrigir problemas identificados durante os testes e realizar melhorias necessárias na interface e na experiência do usuário.
+* Finalização da documentação: revisar, complementar e organizar a documentação técnica do projeto.
+
+Essas atividades têm como objetivo garantir que a plataforma esteja funcional, organizada e acompanhada de sua documentação antes da conclusão do projeto.
 
 ---
 
