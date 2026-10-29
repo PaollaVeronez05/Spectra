@@ -598,7 +598,7 @@ A apresentação da Spectra reúne informações sobre a proposta do projeto, pr
 
 <div align="center">
 
-[![ABRIR SLIDES](https://img.shields.io/badge/ABRIR%20SLIDES-FFFF00?style=for-the-badge\&labelColor=0F171A)](https://canva.link/s97yfd5jalze800)
+[![ABRIR SLIDES](https://img.shields.io/badge/ABRIR%20SLIDES-FFFF00?style=for-the-badge\&labelColor=0F171A)](https://canva.link/jiwhw9ly5752b2z)
 
 </div>
 
