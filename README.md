@@ -422,7 +422,7 @@ O protótipo apresenta a identidade visual, estrutura de navegação, componente
 
 <div align="center">
 
-[![ACESSAR PROTÓTIPO](https://img.shields.io/badge/ACESSAR%20PROTÓTIPO%20NO%20FIGMA-118E94?style=for-the-badge\&logo=figma\&logoColor=white)](https://www.figma.com/proto/QozuwrvPUz8aPlHdfvGjke/Sem-t%C3%ADtulo?node-id=3-945&t=chYvCRs5vSVPDKcD-1 )
+[![ACESSAR PROTÓTIPO](https://img.shields.io/badge/ACESSAR%20PROTÓTIPO%20NO%20FIGMA-118E94?style=for-the-badge\&logo=figma\&logoColor=white)](https://www.figma.com/design/UlWe3VBRZ39N17s13pZmVY/Spectra-%E2%80%94-Prot%C3%B3tipo--computador-e-celular-?node-id=0-1&t=JAZjaqf4Wm7fC1S2-1)
 
 </div>
 
@@ -450,8 +450,6 @@ A versão para computador apresenta uma interface mais ampla, permitindo organiz
 <img src="./assets/telas/home-<img width="448" height="612" alt="image" src="https://github.com/user-attachments/assets/29a6a344-525a-4f65-b53b-11a57c6409a9" />
 
 
-> Substitua o caminho acima pelo arquivo da tela principal em versão desktop.
-
 ---
 
 # Tela Principal - Celular
@@ -462,8 +460,6 @@ A versão mobile será adaptada para telas menores, mantendo a hierarquia das in
 
 <img src="./assets/telas/home-<img width="448" height="760" alt="image" src="https://github.com/user-attachments/assets/c79b41ce-57b2-4c7b-a516-d61358877a89" />
 
-
-> Substitua o caminho acima pelo arquivo da tela principal em versão mobile.
 
 ---
 
