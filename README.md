@@ -164,9 +164,9 @@ As planilhas utilizadas para organização e acompanhamento do projeto podem ser
 
 <div align="center">
 
-[![SPRINT BACKLOG](https://img.shields.io/badge/SPRINT%20BACKLOG-118E94?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1QF4cMYA7s8I5Y5CLGN1AJfYibWVMAaAg/edit?usp=drive_link&ouid=106909840139903568148&rtpof=true&sd=true)
-[![PRODUCT BACKLOG](https://img.shields.io/badge/PRODUCT%20BACKLOG-118E94?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1bGpYraDU6AWtrGf2MrslTclhRUsrSLgb/edit?usp=drive_link&ouid=106909840139903568148&rtpof=true&sd=true)
-[![PLANEJAMENTO](https://img.shields.io/badge/PLANEJAMENTO-FFFF00?style=for-the-badge\&labelColor=0F171A)](https://docs.google.com/spreadsheets/d/1xMdiClfzmHh7Gaob7K-ijWBP8Q2vARwR/edit?usp=drive_link&ouid=106909840139903568148&rtpof=true&sd=true)
+[![SPRINT BACKLOG](https://img.shields.io/badge/SPRINT%20BACKLOG-118E94?style=for-the-badge)](https://drive.google.com/drive/folders/1MqqRoAIecmYeka69V9YiHdP3_8x_rMd6?usp=drive_link)
+[![PRODUCT BACKLOG](https://img.shields.io/badge/PRODUCT%20BACKLOG-118E94?style=for-the-badge)](https://drive.google.com/drive/folders/1MqqRoAIecmYeka69V9YiHdP3_8x_rMd6?usp=drive_link)
+[![PLANEJAMENTO](https://img.shields.io/badge/PLANEJAMENTO-FFFF00?style=for-the-badge\&labelColor=0F171A)](https://drive.google.com/drive/folders/1MqqRoAIecmYeka69V9YiHdP3_8x_rMd6?usp=drive_link)
 
 </div>
 
