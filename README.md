@@ -510,13 +510,14 @@ O cronograma contempla as etapas de:
 
 ## Cronograma do Projeto
 
-<img src="./assets/cronograma/https://app.clickup.com/90171471054/v/b/4-90176930121-2" alt="Cronograma da Spectra" width="900">
+<img width="434" height="711" alt="Captura de tela 2026-09-24 084455" src="https://github.com/user-attachments/assets/9d37b7de-1cdd-4600-9a21-dff061c67033" />
+
 
 > Substitua o caminho acima pela imagem do cronograma utilizada pela equipe.
 
 <div align="center">
 
-[![ACESSAR CRONOGRAMA](https://img.shields.io/badge/ACESSAR%20CRONOGRAMA-118E94?style=for-the-badge)](COLE_AQUI_O_LINK_DO_CRONOGRAMA)
+[![ACESSAR CRONOGRAMA](https://img.shields.io/badge/ACESSAR%20CRONOGRAMA-118E94?style=for-the-badge)](https://app.clickup.com/90171471054/v/s/90176930121)
 
 </div>
 
