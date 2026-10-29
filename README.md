@@ -447,7 +447,7 @@ A versão para computador apresenta uma interface mais ampla, permitindo organiz
 
 ### Prévia
 
-<img src="./assets/telas/home-<img width="448" height="612" alt="image" src="https://github.com/user-attachments/assets/29a6a344-525a-4f65-b53b-11a57c6409a9" />
+<img width="512" height="364" alt="image" src="https://github.com/user-attachments/assets/598809c6-6436-484d-a4d0-d8536321c069" />
 
 
 ---
@@ -458,7 +458,7 @@ A versão mobile será adaptada para telas menores, mantendo a hierarquia das in
 
 ### Prévia
 
-<img src="./assets/telas/home-<img width="448" height="760" alt="image" src="https://github.com/user-attachments/assets/c79b41ce-57b2-4c7b-a516-d61358877a89" />
+<img width="240" height="527" alt="image" src="https://github.com/user-attachments/assets/bf8847e0-f1cd-4bd0-a719-e09144aebc5b" />
 
 
 ---
