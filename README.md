@@ -510,7 +510,7 @@ O cronograma contempla as etapas de:
 
 ## Cronograma do Projeto
 
-<img width="434" height="711" alt="Captura de tela 2026-09-24 084455" src="https://github.com/user-attachments/assets/9d37b7de-1cdd-4600-9a21-dff061c67033" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-10-29 at 10 50 31" src="https://github.com/user-attachments/assets/d20fe734-70d5-467a-b3f0-25c52de67247" />
 
 
 > Substitua o caminho acima pela imagem do cronograma utilizada pela equipe.
